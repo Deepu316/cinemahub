@@ -3,15 +3,15 @@ class script(object):
 My Nαмe Iѕ <a href=https://t.me/{}>{}</a>, I Cαɴ Provιde Movιeѕ, Add Me To Yoυr Groυp Aɴd Mαĸe Me Adмιɴ.. Tнeɴ See My Power♥️♥️🔥"""
     HELP_TXT = """𝙷𝙴𝚈 {}
  Here Iѕ My Help Coммαɴdѕ."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: lυcαѕ вoт</b>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: Master Bot</b>
 <b>✮ Creαтor: <a href="https://t.me/Sovel_jaison"> ѕσνєℓ נαιѕση </a>
-<b>✮ Updαтe Cнαɴɴel:<a href="https://t.me/cinemahub00"> ᴄɪɴᴇᴍᴀ ʜᴜʙ </a></b>
+<b>✮ Updαтe Cнαɴɴel:<a href="https://t.me/malayalam_movies243"> മലയാളം മൂവി ഗ്രൂപ്പ് </a></b>
 <b>✮ Lιвrαry: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ Lαɴɢυαɢe: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ Dαтα Bαѕe: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ Boт Server: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ Bυιld Sтαтυѕ: 𝚅1.0.43</b>
-<b>✮ Mαιɴтαιɴed By: <a href="https://t.me/bastin_joe"> вαѕтιη נσє </a></b>"""
+<b>✮ Mαιɴтαιɴed By: <a href="https://t.me/Deadpool465"> Cr7 </a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -72,13 +72,13 @@ Note:- Give a user details
 3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
 4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
+    DEPLOY_TXT = """<b>Movie Group</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://t.me/cinemahub00</b></i>
+<b>✮Join Guys››</b> <i><b>https://t.me/malayalam_movies243</b>മലയാളം മൂവി ഗ്രൂപ്പ്</i>
 
 <b>ᴊᴏɪɴ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ</b>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=>https://t.me/malayalam_movies243>മലയാളം മൂവി ഗ്രൂപ്പ്</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
@@ -103,7 +103,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=>https://t.me/malayalam_movies243>മലയാളം മൂവി ഗ്രൂപ്പ്</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -211,7 +211,7 @@ Delete A Lot Of Messages From Groups!
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=>https://t.me/malayalam_movies243>മലയാളം മൂവി ഗ്രൂപ്പ്</a>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -328,8 +328,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https:https://t.me/cinemahub00>ᴄɪɴᴇᴍᴀʜᴜʙ</a>"""
-
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=>https://t.me/malayalam_movies243>മലയാളം മൂവി ഗ്രൂപ്പ്</a>"""
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
 To Get Sticker ID
